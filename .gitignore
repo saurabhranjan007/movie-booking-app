@@ -1,0 +1,10 @@
+#Node modules folder
+
+/node_modules/
+
+#text files
+
+*.txt
+
+#Test Files
+rough.js
